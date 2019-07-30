@@ -1,4 +1,4 @@
 # en
 ## markdown
 
-[한글 페이지로](/Readme.md)
+[한글 페이지로](/README.md)
